@@ -10,8 +10,8 @@
 ## Installation
 
 * [Install Rye](https://rye-up.com/guide/installation/)
-* Clone repository: `git clone https://github.com/orgatalk/lanpartydb-tools.git`
-* Enter converter path: `cd lanpartydb-tools/converter`
+* Clone repository: `git clone https://github.com/lanpartydb/tools.git`
+* Enter converter path: `cd tools/converter`
 * Setup project including dependencies: `rye sync`
 
 
