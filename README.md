@@ -5,4 +5,5 @@
 
 * [Converter](./converter) to generate TOML files suitable for inclusion
   into the [OrgaTalk LAN Party
-  Database](https://github.com/lanpartydb/data).
+  Database](https://github.com/lanpartydb/data) from existing data
+  exported from other LAN party systems.
