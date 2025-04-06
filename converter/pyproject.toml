@@ -15,16 +15,12 @@ requires-python = ">= 3.11"
 license = { text = "MIT" }
 
 [project.scripts]
-convert-dotlan-sql = 'lanpartydb_converter.inputs.dotlan.main:main'
-convert-lansuite-xml = 'lanpartydb_converter.inputs.lansuite.xml.main:main'
+convert-dotlan-sql = "lanpartydb_converter.inputs.dotlan.main:main"
+convert-lansuite-xml = "lanpartydb_converter.inputs.lansuite.xml.main:main"
 
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
-
-[tool.rye]
-managed = true
-dev-dependencies = []
 
 [tool.hatch.metadata]
 allow-direct-references = true
@@ -41,3 +37,6 @@ combine-as-imports = true
 force-sort-within-sections = true
 lines-after-imports = 2
 order-by-type = false
+
+[tool.uv]
+required-version = ">=0.6.12"
