@@ -4,7 +4,7 @@ lanpartydb_converter.inputs.dotlan.main
 
 DOTLAN Intranet entry point
 
-:Copyright: 2024 Jochen Kupperschmidt
+:Copyright: 2024-2025 Jochen Kupperschmidt
 :License: MIT
 """
 

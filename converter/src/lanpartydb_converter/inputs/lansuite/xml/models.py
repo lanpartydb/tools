@@ -4,7 +4,7 @@ lanpartydb_converter.inputs.lansuite.xml.models
 
 LANsuite XML data models
 
-:Copyright: 2024 Jochen Kupperschmidt
+:Copyright: 2024-2025 Jochen Kupperschmidt
 :License: MIT
 """
 

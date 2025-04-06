@@ -15,7 +15,7 @@ To create it from the DOTLAN admin:
 * Tick checkboxes "Export structure" and "Export data".
 * Select "none" for compression.
 
-:Copyright: 2024 Jochen Kupperschmidt
+:Copyright: 2024-2025 Jochen Kupperschmidt
 :License: MIT
 """
 

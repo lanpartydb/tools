@@ -4,7 +4,7 @@ lanpartydb_converter.inputs.lansuite.xml.main
 
 LANsuite XML entry point
 
-:Copyright: 2024 Jochen Kupperschmidt
+:Copyright: 2024-2025 Jochen Kupperschmidt
 :License: MIT
 """
 

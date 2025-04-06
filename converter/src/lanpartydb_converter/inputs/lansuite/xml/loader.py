@@ -7,7 +7,7 @@ LANsuite XML data loader
 An XML document with parties is publicly available at
 `https://www.yourparty.example/ext_inc/party_infos/infos.xml`.
 
-:Copyright: 2024 Jochen Kupperschmidt
+:Copyright: 2024-2025 Jochen Kupperschmidt
 :License: MIT
 """
 
