@@ -7,7 +7,7 @@ authors = [
 ]
 dependencies = [
     "lanpartydb>=0.10.0",
-    "pydantic>=2.7.4",
+    "pydantic>=2.11.2",
     "pydantic-xml>=2.11.0",
 ]
 readme = "README.md"
