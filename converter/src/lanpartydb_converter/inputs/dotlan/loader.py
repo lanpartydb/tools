@@ -97,7 +97,7 @@ def _build_party(row, base_url: str) -> Party:
             name=row['location_name'],
             country_code=row['countrycode'],
             city=row['city'],
-            zip_code=row['zip'],
+            postal_code=row['zip'],
             street=row['street'],
         ),
         links=Links(

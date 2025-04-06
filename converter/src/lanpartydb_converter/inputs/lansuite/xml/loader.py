@@ -34,7 +34,7 @@ def _build_party(lansuite_party: LansuiteParty, *, website_url: str) -> Party:
     location = Location(
         country_code='de',
         city=lansuite_party.ort,
-        zip_code=lansuite_party.plz,
+        postal_code=lansuite_party.plz,
     )
 
     links = Links(website=Resource(url=website_url))
